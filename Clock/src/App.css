@@ -1,0 +1,13 @@
+*{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+p{
+  margin: 10px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1{
+  margin: 10px;
+  padding: 10px;
+}
